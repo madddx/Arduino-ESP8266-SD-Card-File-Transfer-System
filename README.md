@@ -104,22 +104,6 @@ A lightweight wireless file transfer solution using **Arduino Uno**, **NodeMCU (
 
 ---
 
-## 📁 Project Structure
-
-Arduino_ESP_FileTransfer/
-├── README.md
-├── arduino_sd.ino
-├── nodemcu_web.ino
-└── images/
-    ├── circuit-diagram.png
-    ├── web-ui.png
-    ├── upload.png
-    └── list.png
-
-
-
----
-
 ## ⚠️ Notes
 
 - Format the microSD card to **FAT32** before inserting
