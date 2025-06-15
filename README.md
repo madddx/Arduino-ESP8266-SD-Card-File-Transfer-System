@@ -111,10 +111,10 @@ A lightweight wireless file transfer solution using **Arduino Uno**, **NodeMCU (
 ┣ 📄 arduino_sd.ino
 ┣ 📄 nodemcu_web.ino
 ┗ 📁 images/
-     ┣ 🖼️ circuit-diagram.png
-     ┣ 🖼️ web-ui.png
-     ┣ 🖼️ upload.png
-     ┗ 🖼️ list.png
+┣ 🖼️ circuit-diagram.png
+┣ 🖼️ web-ui.png
+┣ 🖼️ upload.png
+┗ 🖼️ list.png
 
 
 ---
@@ -132,7 +132,7 @@ A lightweight wireless file transfer solution using **Arduino Uno**, **NodeMCU (
 
 **Madhesh H**  
 Cloud Engineer | IoT Developer | IEEE GRSS SRMIST  
-[GitHub Profile](https://github.com/madddx) 
+[GitHub Profile](https://github.com/madddx) |
 [LinkedIn Profile](https://www.linkedin.com/in/madheshh/)
 
 ---
